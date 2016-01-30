@@ -149,9 +149,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Testing
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chat", "Chat", "{6F0B4D16-DEBF-4DBE-B903-6C0A056F3B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Chat", "Sitecore.Feature.Chat\Sitecore.Feature.Chat.csproj", "{EA0E04BD-1A88-4A91-9FE8-0444C57BD88D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Chat", "src\Feature\Chat\Sitecore.Feature.Chat\Sitecore.Feature.Chat.csproj", "{EA0E04BD-1A88-4A91-9FE8-0444C57BD88D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Chat.Tests", "Sitecore.Feature.Chat.Tests\Sitecore.Feature.Chat.Tests.csproj", "{0B6B356F-990F-4363-A04F-F5DB20AB3F23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Chat.Tests", "src\Feature\Chat\Sitecore.Feature.Chat.Tests\Sitecore.Feature.Chat.Tests.csproj", "{0B6B356F-990F-4363-A04F-F5DB20AB3F23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
