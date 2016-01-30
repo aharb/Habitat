@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: 4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22
   Hint: __Controller
-  Value: Sitecore.Feature.Chat.Controllers, Sitecore.Feature.Chat
+  Value: Sitecore.Feature.Chat.Controller.ChatController, Sitecore.Feature.Chat
 - ID: 9fb734cc-8952-4072-a2d4-40f890e16f56
   Hint: __Controller Action
   Value: Index
